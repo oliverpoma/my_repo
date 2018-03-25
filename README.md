@@ -1,1 +1,1 @@
-Primer fichero en el primer repositorio de <Oliver Poma>
+Primer fichero en el primer repositorio de Oliver Poma
